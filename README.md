@@ -38,5 +38,4 @@ npm run dev
 
 ## Author
 
-Tandis Varshoyebonab  
-M.Sc. Web Engineering student at TU Chemnitz
+Tandis   
